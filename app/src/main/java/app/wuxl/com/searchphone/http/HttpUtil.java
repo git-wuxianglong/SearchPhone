@@ -23,7 +23,7 @@ import okhttp3.Response;
 public class HttpUtil {
 
     // apikey申请地址http://apistore.baidu.com/apiworks/servicedetail/498.html
-    private static final String APIKEY = "5e97386678637e7ef161c77b4b02fdcb";
+    private static final String APIKEY = "";
 
     String mUrl;
     Map<String, String> mParm;
