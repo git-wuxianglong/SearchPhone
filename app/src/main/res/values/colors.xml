@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 背景颜色 -->
+    <color name="main_background">#eeeeee</color>
+    <!-- 标题文字颜色 -->
+    <color name="title_txt_color">#808080</color>
+    <!-- 输入框提示文字颜色 -->
+    <color name="hint_color">#bfbfc1</color>
+    <!-- 查询结果标题文字颜色 -->
+    <color name="search_title_color">#4a4a4a</color>
+
+
+</resources>
